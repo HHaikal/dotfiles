@@ -1,0 +1,4 @@
+#!/bin/bash
+
+printf "Move vimrc to folder dotfiles"
+cp ~/.vimrc .vimrc
